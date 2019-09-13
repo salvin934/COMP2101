@@ -1,3 +1,4 @@
- #!/bin/#!/usr/bin/env bash
+#!/bin/bash
  echo "HELLO WORLD"
-exit
+ echo "I am process # $$"
+ exit
